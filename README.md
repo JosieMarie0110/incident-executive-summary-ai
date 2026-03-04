@@ -22,7 +22,7 @@ Technical incident write-ups are often too detailed for executives and too techn
 ## Tech Stack
 - Python
 - Streamlit
-- OpenAI API (optional)
+- OpenAI API 
 
 ## Run locally
 
