@@ -1,6 +1,6 @@
 Project Status: Actively under development
 
-# Incident → Executive Summary Generator 🚨
+# Incident → Executive Summary Generator 
 
 A lightweight Streamlit app that turns raw incident notes into executive-ready summaries and customer-facing updates.
 
